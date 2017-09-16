@@ -1,0 +1,9 @@
+  #main .logo {
+    position: relative;
+    display: block;
+    margin-bottom: 1.5em; }
+    #main .logo img {
+      display: block;
+      margin: 0 auto;
+      width: 80%;
+      box-shadow: 0 0 0 1.5em #ffffff; }

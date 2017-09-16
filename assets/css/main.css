@@ -503,12 +503,14 @@ button,
   #main .avatar {
     position: relative;
     display: block;
-    margin-bottom: 1.5em; }
+    /* margin-bottom: 1.5em; */
+    /* width: 100%; */
+  }
     #main .avatar img {
       display: block;
-      margin: 0 auto;
-      width: 50%;
-      box-shadow: 0 0 0 1.5em #ffffff; }
+      /* margin: 0 auto; */
+      width: 100%;
+  }
   #main .name {
     font-weight: bold; }
   #main .location {
